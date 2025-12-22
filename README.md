@@ -16,7 +16,7 @@
 </p>
 </div>
 
-👨‍💻 Sobre Mim
+🧑🏿‍💻 Sobre Mim
 
 Sou um profissional de tecnologia de Jaboatão dos Guararapes/PE, apaixonado por literatura 📚 e infraestrutura. Com sólida experiência em Suporte Técnico (Linux/Windows), estou em transição de carreira para DevOps/Engenharia de Plataforma.
 
@@ -39,7 +39,7 @@ Licenciatura em Computação (UFRPE)
 Infraestrutura & Cloud
 
 <div style="display: inline_block">
-<img align="center" alt="AWS" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" />
 <img align="center" alt="Linux" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="Docker" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="Bash" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
