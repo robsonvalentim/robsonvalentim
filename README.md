@@ -11,7 +11,7 @@
 <img src="https://img.icons8.com/color/512/linkedin.png" alt="LinkedIn">
 </a>
 <a href="mailto:robson.valentim@outlook.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+<img height="30" width="40" src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
 </a>
 </p>
 </div>
