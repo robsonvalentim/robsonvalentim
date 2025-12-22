@@ -8,7 +8,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/rgvalentim" target="_blank">
-<img src="https://drive.google.com/file/d/1PHY2-Cvak3HRhFyGUwa7fg73nDW-xtjD/view?usp=sharing" alt="LinkedIn">
+<img src="https://img.icons8.com/color/512/linkedin.png" alt="LinkedIn">
 </a>
 <a href="mailto:robson.valentim@outlook.com" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
