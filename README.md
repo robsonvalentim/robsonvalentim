@@ -11,7 +11,7 @@
 <img height="30" width="30" src="https://img.icons8.com/color/512/linkedin.png" alt="LinkedIn">
 </a>
 <a href="mailto:robson.valentim@outlook.com" target="_blank">
-<img height="30" width="40" src="https://img.icons8.com/color/1200/microsoft-outlook-2025.jpg" alt="Email">
+<img height="30" width="30" src="https://img.icons8.com/color/1200/microsoft-outlook-2025.jpg" alt="Email">
 </a>
 </p>
 </div>
