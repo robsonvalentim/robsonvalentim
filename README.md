@@ -40,30 +40,30 @@ Infraestrutura & Cloud
 
 <div style="display: inline_block">
 <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img align="center" alt="Linux" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="Docker" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="Bash" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="center" alt="Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
 Desenvolvimento Back-end
 
 <div style="display: inline_block">
-<img align="center" alt="Java" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="NestJS" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img align="center" alt="NodeJS" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Spring" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="center" alt="JavaScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" />
+<img align="center" alt="TypeScript" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" />
+<img align="center" alt="NestJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original-wordmark.svg" />
+<img align="center" alt="NodeJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
 Banco de Dados
 
 <div style="display: inline_block">
-<img align="center" alt="MySQL" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Postgres" height="30" width="40" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="MySQL" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
 
 
 
 <div align="center">
-<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drobsonvalentim%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drobsonvalentim%26layout%3Dcompact%26theme%3Ddracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api%3Fusername%3Drobsonvalentim%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drobsonvalentim%26layout%3Dcompact%26theme%3Ddracula"/>
 </div>
