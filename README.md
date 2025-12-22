@@ -60,6 +60,7 @@ Banco de Dados
 <img align="center" alt="MySQL" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
+<br>
 
 
 
