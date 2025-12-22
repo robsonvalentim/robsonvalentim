@@ -64,7 +64,7 @@ Banco de Dados
 
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonvalentim)](https://github.com/robsonvalentim/github-readme-stats)
-<img height="150em" src="https://github-readme-stats.vercel.app/api%3Fusername%3Drobsonvalentim%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drobsonvalentim%26layout%3Dcompact%26theme%3Ddracula"/>
+![robsonvalentim's Stats](https://github-readme-stats.vercel.app/api?username=robsonvalentim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![robsonvalentim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robsonvalentim&theme=vue-dark&hide_border=true)
+![robsonvalentim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvalentim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
