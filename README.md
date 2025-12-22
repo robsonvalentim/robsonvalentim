@@ -22,18 +22,21 @@ Sou um profissional de tecnologia de Jaboatão dos Guararapes/PE, apaixonado por
 
 Acredito na tecnologia como ferramenta de transformação social. Como homem negro, gay e nordestino, busco criar e ocupar espaços que valorizem a diversidade e a inclusão.
 
+<br>
 🎓 Graduando em:
 
 Análise e Desenvolvimento de Sistemas (PUCRS)
 
 Licenciatura em Computação (UFRPE)
 
+<br>
 ☁️ Cloud & DevOps: Bolsista AWS re/Start (Escola da Nuvem) e Formação FAST Engenharia de Plataforma (CESAR School).
 
 💻 Full Stack: Cursando Bootcamp Java Full Stack (Generation/Accenture).
 
 🔭 Atualmente trabalhando no: Ajuda Aqui - Uma API RESTful focada em conectar comunidades periféricas a oportunidades.
 
+<br>
 🛠️ Tech Stack
 
 Infraestrutura & Cloud
@@ -45,6 +48,7 @@ Infraestrutura & Cloud
 <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
+<br>
 Desenvolvimento Back-end
 
 <div style="display: inline_block">
@@ -54,6 +58,7 @@ Desenvolvimento Back-end
 <img align="center" alt="NodeJS" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
+<br>
 Banco de Dados
 
 <div style="display: inline_block">
@@ -66,5 +71,5 @@ Banco de Dados
 
 
 ![robsonvalentim's Stats](https://github-readme-stats.vercel.app/api?username=robsonvalentim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![robsonvalentim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robsonvalentim&theme=vue-dark&hide_border=true)
+<br>
 ![robsonvalentim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonvalentim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
