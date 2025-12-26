@@ -32,7 +32,7 @@ Licenciatura em Computação (UFRPE)
 <br>
 ☁️ Cloud & DevOps: Bolsista AWS re/Start (Escola da Nuvem) e Formação FAST Engenharia de Plataforma (CESAR School).
 
-💻 Full Stack: Cursando Bootcamp Java Full Stack (Generation/Accenture).
+💻 Full Stack: Cursando Bootcamp JavaScript/TypeScript Full Stack (Generation/Accenture).
 
 🔭 Atualmente trabalhando no: Ajuda Aqui - Uma API RESTful focada em conectar comunidades periféricas a oportunidades.
 
